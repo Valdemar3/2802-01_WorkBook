@@ -1,0 +1,43 @@
+{
+    "articles": [
+        {
+            "slug": "FAKE-a5yuw7",
+            "title": "FAKE",
+            "description": "FAKE",
+            "body": "FAKE",
+            "createdAt": "2023-02-28T18:53:40.694Z",
+            "updatedAt": "2023-02-28T18:53:40.694Z",
+            "tagList": [
+                "test"
+            ],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "dmytro",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "FAKE2-f6cd1q",
+            "title": "FAKE2",
+            "description": "FAKE2",
+            "body": "FAKE2",
+            "createdAt": "2023-02-28T18:39:08.290Z",
+            "updatedAt": "2023-02-28T18:39:08.290Z",
+            "tagList": [
+                "qwe"
+            ],
+            "favorited": true,
+            "favoritesCount": 1,
+            "author": {
+                "username": "dmytro",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 2
+}
